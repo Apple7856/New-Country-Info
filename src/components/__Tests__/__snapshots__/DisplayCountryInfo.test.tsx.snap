@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchCountry Component Snapshot test 1`] = `
+<div
+  className="MuiContainer-root MuiContainer-maxWidthLg"
+>
+  <div
+    className="MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <h2
+      className="MuiTypography-root MuiTypography-h2"
+      data-testid="heading"
+    >
+      Country Info
+    </h2>
+    <p
+      className="MuiTypography-root MuiTypography-body1"
+    >
+      Capital: 
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body1"
+    >
+      Population: 
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body1"
+    >
+      latlng: 
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body1"
+    >
+      Flag: 
+      <img
+        width="100px"
+      />
+    </p>
+    <button
+      className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+        Capital Weather
+      </span>
+    </button>
+  </div>
+  
+</div>
+`;
